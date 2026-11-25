@@ -1,0 +1,11 @@
+/.venv/
+/vendor/
+/dist/
+/build/
+/runs/
+/.pytest_cache/
+/.ruff_cache/
+__pycache__/
+*.pyc
+*.so
+.env
