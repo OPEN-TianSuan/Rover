@@ -1,5 +1,7 @@
 # Rover
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [Architecture](https://github.com/OPEN-TianSuan/Rover/blob/main/doc/architecture.md "architecture.md")
+
 Rover is a general-purpose inference engine for running models locally, with support for multimodal inputs and resumable execution.
 
 ## Features
@@ -10,6 +12,10 @@ Rover is a general-purpose inference engine for running models locally, with sup
 - **Configurable execution** — choose KV cache formats, scheduling policies, and CUDA graph execution.
 
 The current model backend supports Qwen3-VL. Model weights are loaded from a local directory.
+
+## Documentation
+
+See the [architecture document](https://github.com/OPEN-TianSuan/Rover/blob/main/doc/architecture.md "architecture.md") for the system design and implementation details.
 
 ## Installation
 
