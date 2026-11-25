@@ -1,6 +1,6 @@
 # Rover
 
-[English](README.md) | [简体中文](README.zh-CN.md)
+[English](README.md) | [Chinese](README.zh-CN.md)
 
 Rover is a general-purpose inference engine for running models locally, with support for multimodal inputs and resumable execution.
 
