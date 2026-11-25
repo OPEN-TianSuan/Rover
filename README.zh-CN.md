@@ -1,6 +1,6 @@
 # Rover
 
-[English](README.md) | 简体中文 | [架构文档](https://github.com/OPEN-TianSuan/Rover/blob/main/doc/architecture.md "architecture.md")
+[English](README.md) | [简体中文](README.zh-CN.md) | [架构文档](https://github.com/OPEN-TianSuan/Rover/blob/main/doc/architecture.md "architecture.md")
 
 Rover 是一款通用的本地模型推理引擎，支持多模态输入和断点恢复。
 
